@@ -1,0 +1,71 @@
+# .gitignore file for BSoup1 Theme
+
+# IGNORE TEXT FILES, PNG IMAGE FILES AND CSS MAP FILES
+*.txt
+*.png
+*.map
+
+# EXCEPT THE README.TXT FILE
+!readme.txt
+
+# IGNORE THE CSS FOLDER
+css/animate.css
+css/bootstrap.css
+css/bootstrap.min.css
+css/bootstrap-grid.css
+css/bootstrap-grid.min.css
+css/bootstrap-reboot.css
+css/bootstrap-reboot.min.css
+css/flexslider.css
+css/font-awesome.css
+css/font-awesome.min.css
+css/ie10-viewport-bug-workaround.css
+css/jquery-ui.min.css
+css/jquery-ui.structure.css
+css/jquery-ui.structure.min.css
+css/jquery-ui.theme.css
+css/jquery-ui.theme.min.css
+css/jquery-ui3.css
+css/queries.css
+css/regForm.css
+css/site.css
+css/Site2.css
+css/jquery.css
+css/*.map
+css/images/
+css/.sass-cache/
+
+# IGNORE THE JS FOLDER, EXCEPT THE JS/JQUERY.CUSTOM.JS FILE
+js/easing/
+js/plugins/
+js/umd/
+js/unit/
+js/utils/
+js/vendor/
+js/bootstrap.js
+js/bootstrap.min.js
+js/contact-img.js
+js/docs.min.js
+js/ie10-viewport-bug-workaround.js
+js/ie-emulation-modes-warning.js
+js/jquery.js
+js/jquery.min.js
+js/jquery-ui.js
+js/jquery-ui.min.js
+js/multi-featured-img.js
+js/npm.js
+js/popper.min.js
+js/TimelineLite.min.js
+js/TimelineMax.min.js
+js/TweenLite.min.js
+js/TweenMax.min.js
+
+
+# IGNORE THE .SASS-CACHE FOLDER
+.sass-cache/
+
+assets/js/html5.js
+assets/js/jquery.scrollTo.js
+
+assets/images/
+
